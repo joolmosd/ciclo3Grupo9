@@ -2,25 +2,34 @@
 @{
 }
 
-<div class="text-center">
-  <form action="">
+<body>
+ <style>
+   body {
+     background: rgb(236,114,0);
+     background: linear-gradient(90deg, rgba(236,114,0,1) 0%, rgba(7,202,217,1) 47%, rgba(139,156,33,1) 75%);
+   }
+ </style>
 
-    <label for="id" class="form-label">Id:</label>
-    <input type="number" class="form-control" id="id" name="id" placeholder="Id">
+  <div class="text-center">
+    <form action="">
 
-    <label for="nombre" class="form-label">Nombre:</label>
-    <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
+      <label for="id" class="form-label">Id:</label>
+      <input type="number" class="form-control" id="id" name="id" placeholder="Id">
 
-    <label for="apellidos" class="form-label">Apellidos:</label>
-    <input type="text" class="form-control" id="apellidos" name="apellidos" placeholder="Apellidos">
+      <label for="nombre" class="form-label">Nombre:</label>
+      <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
 
-    <label for="direccion" class="form-label">Dirección:</label>
-    <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Direccion">
+      <label for="apellidos" class="form-label">Apellidos:</label>
+      <input type="text" class="form-control" id="apellidos" name="apellidos" placeholder="Apellidos">
 
-    <label for="telefono" class="form-label">Telefono:</label>
-    <input type="number" class="form-control" id="telefono" name="telefono" placeholder="Telefono">
+      <label for="direccion" class="form-label">Dirección:</label>
+      <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Direccion">
 
-    <hr>
-    <button type="submit" class="btn btn-success">Enviar</button>
-  </form>
-</div>
+      <label for="telefono" class="form-label">Telefono:</label>
+      <input type="number" class="form-control" id="telefono" name="telefono" placeholder="Telefono">
+
+      <hr>
+      <button type="submit" class="btn btn-success">Enviar</button>
+    </form>
+  </div>
+</body>
