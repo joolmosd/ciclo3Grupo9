@@ -23,6 +23,21 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     {
         encomiendas = repositorioEncomienda.GetAll();
     }
+
+    public IActionResult OnPost()
+        {
+            if(!ModelState.IsValid)
+            {
+                return Page();
+            }
+            if(Encomienda.id>0)
+            {
+            Encomienda = repositorioEncomienda.Update(Encomienda);
+            }
+            return Page();
+        }
+
+
     }
 
 }

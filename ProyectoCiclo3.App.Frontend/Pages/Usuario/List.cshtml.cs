@@ -23,5 +23,20 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     {
         usuarios = repositorioUsuario.GetAll();
     }
+
+    public IActionResult OnPost()
+        {
+            if(!ModelState.IsValid)
+            {
+                return Page();
+            }
+            if(Usuario.id>0)
+            {
+            Usuario = repositorioUsuario.Update(Usuario);
+            }
+            return Page();
+        }
+
+
     }
 }

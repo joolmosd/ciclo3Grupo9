@@ -1,6 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "73EmffoRi7fND3ElN1iYOOC9pZ5JN/kGGJjr41LWBEIxCkQbV50oAOs+Eu8J4wfHqYnfcQsvte6ch88DDTDduA==",
   "success": true,
   "projectFilePath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\Proyecto Equipo\\ciclo3Grupo9\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
@@ -100,11 +99,12 @@
     "C:\\Users\\a\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-=======
-  "dgSpecHash": "ZNK/X7bwQSlrzIa1mYzN/xr7sMP/J1bebZHOBGZuZRUERVmHgiJgLVPFllmWVkdgYoaUMNYMV5a1lwQhupE4iw==",
-  "success": true,
-  "projectFilePath": "D:\\Users\\USUARIO\\Desktop\\proyecto equipo\\ciclo3Grupo9\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
-  "expectedPackageFiles": [],
->>>>>>> ea7a43b8ff8b0235ac4e3723b3bb2fb4b625c34d
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\Proyecto Equipo\\ciclo3Grupo9\\ProyectoCiclo3.App.Frontend\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
