@@ -1,57 +1,3 @@
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.exe
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.deps.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.runtimeconfig.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.runtimeconfig.dev.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.dll
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.dll
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.pdb
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.csprojAssemblyReference.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.AssemblyInfoInputs.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.AssemblyInfo.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.csproj.CoreCompileInputs.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorAssemblyInfo.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorAssemblyInfo.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.TagHelpers.input.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.TagHelpers.output.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorCoreGenerate.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorTargetAssemblyInfo.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorTargetAssemblyInfo.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.pdb
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoCiclo3.App.Frontend.StaticWebAssets.Manifest.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoCiclo3.App.Frontend.StaticWebAssets.xml
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.dll
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.genruntimeconfig.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.csproj.CopyComplete
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Create.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\List.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Create.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\List.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Create.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\List.cshtml.g.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.exe
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.deps.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.runtimeconfig.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.runtimeconfig.dev.json
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.dll
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.dll
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.pdb
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.csprojAssemblyReference.cache
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.AssemblyInfoInputs.cache
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.AssemblyInfo.cs
@@ -63,24 +9,22 @@ D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto 
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.TagHelpers.output.cache
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorCoreGenerate.cache
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Create.cshtml.g.cs
+D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Details.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\List.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Create.cshtml.g.cs
+D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Details.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\List.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Create.cshtml.g.cs
+D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Details.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\List.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorTargetAssemblyInfo.cache
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorTargetAssemblyInfo.cs
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.pdb
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoCiclo3.App.Frontend.StaticWebAssets.Manifest.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoCiclo3.App.Frontend.StaticWebAssets.xml
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.dll
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.genruntimeconfig.cache
-D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.csproj.CopyComplete

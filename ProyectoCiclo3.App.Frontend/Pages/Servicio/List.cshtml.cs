@@ -4,14 +4,24 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ProyectoCiclo3.App.Dominio;
+using ProyectoCiclo3.App.Persistencia.AppRepositorios;
  
 namespace ProyectoCiclo3.App.Frontend.Pages
 {
-    public class ListServiceModel : PageModel
+    public class ListServicioModel : PageModel
     {
-        public void OnGet()
-        {
+        private readonly RepositorioServicio repositorioServicio;
+        public IEnumerable<Servicio> servicios {get;set;}
  
-        }
+    public ListServicioModel(RepositorioServicio repositorioServicio)
+    {
+        this.repositorioServicio = repositorioServicio;
+     }
+ 
+    public void OnGet()
+    {
+        servicios = repositorioServicio.GetAll();
+    }
     }
 }

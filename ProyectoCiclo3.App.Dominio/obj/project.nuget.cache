@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VXnndN6u/XwdqgfduFk+okEq/Sncrlis8iYZTJt9EI41/+IsYkEaLgTDf7JQA32UK0qcShX4T4HR024l+vqT3A==",
+  "dgSpecHash": "dY2JtXuy/M8lbgNXcC6GTm0o4SZjyOao4wpJIkrBGooGWZMf4UkiubJB25dchwyUFHeQDrRxi83h4UUtEADZ+Q==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+  "projectFilePath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\Proyecto Equipo\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
