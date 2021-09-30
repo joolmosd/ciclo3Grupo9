@@ -12,7 +12,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     public class DetailsEncomiendaModel : PageModel
     {
        private readonly RepositorioEncomienda repositorioEncomienda;
-              public Encomienda encomienda {get;set;}
+              public Encomienda Encomienda {get;set;}
  
         public DetailsEncomiendaModel(RepositorioEncomienda repositorioEncomienda)
        {
@@ -21,7 +21,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
  
         public IActionResult OnGet(int encomiendaId)
         {
-                encomienda=repositorioEncomienda.GetEncomiendaWithId(encomiendaId);
+                Encomienda = repositorioEncomienda.GetEncomiendaWithId(encomiendaId);
                 return Page();
  
         }

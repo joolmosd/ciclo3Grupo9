@@ -12,16 +12,16 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     public class EditEncomiendaModel : PageModel
     {
        private readonly RepositorioEncomienda repositorioEncomienda;
-              public Encomienda encomienda {get;set;}
+              public Encomienda Encomienda {get;set;}
  
         public EditEncomiendaModel(RepositorioEncomienda repositorioEncomienda)
        {
             this.repositorioEncomienda=repositorioEncomienda;
        }
  
-        public IActionResult OnGet(int encomiendaId)
+        public IActionResult OnGet(int EncomiendaId)
         {
-                encomienda=repositorioEncomienda.GetEncomiendaWithId(encomiendaId);
+                Encomienda = repositorioEncomienda.GetEncomiendaWithId(EncomiendaId);
                 return Page();
  
         }

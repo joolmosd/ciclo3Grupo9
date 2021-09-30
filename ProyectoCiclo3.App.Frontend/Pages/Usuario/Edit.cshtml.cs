@@ -13,7 +13,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     public class EditUsuarioModel : PageModel
     {
        private readonly RepositorioUsuario repositorioUsuario;
-              public Usuario usuario {get;set;}
+              public Usuario Usuario {get;set;}
  
         public EditUsuarioModel(RepositorioUsuario repositorioUsuario)
        {
@@ -22,7 +22,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
  
         public IActionResult OnGet(int usuarioId)
         {
-                usuario = repositorioUsuario.GetUsuarioWithId(usuarioId);
+                Usuario = repositorioUsuario.GetUsuarioWithId(usuarioId);
                 return Page();
  
         }

@@ -12,7 +12,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     public class ListUsuarioModel : PageModel
     {
         private readonly RepositorioUsuario repositorioUsuario;
-        public IEnumerable<Usuario> usuarios {get;set;}
+        public IEnumerable<Usuario> Usuario {get;set;}
  
     public ListUsuarioModel(RepositorioUsuario repositorioUsuario)
     {
@@ -21,9 +21,10 @@ namespace ProyectoCiclo3.App.Frontend.Pages
  
     public void OnGet()
     {
-        usuarios = repositorioUsuario.GetAll();
+        Usuario = repositorioUsuario.GetAll();
     }
 
+    /*
     public IActionResult OnPost()
         {
             if(!ModelState.IsValid)
@@ -36,7 +37,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
             }
             return Page();
         }
-
+    */
 
     }
 }

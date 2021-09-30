@@ -10,17 +10,17 @@ using ProyectoCiclo3.App.Persistencia.AppRepositorios;
 namespace ProyectoCiclo3.App.Frontend.Pages{
     public class ListServicioModel : PageModel{
         private readonly RepositorioServicio repositorioServicio;
-        public IEnumerable<Servicio> servicios {get;set;}
+        public IEnumerable<Servicio> Servicio {get;set;}
  
     public ListServicioModel(RepositorioServicio repositorioServicio){
         this.repositorioServicio = repositorioServicio;
      }
  
     public void OnGet(){
-        servicios = repositorioServicio.GetAll();
+        Servicio = repositorioServicio.GetAll();
     }
 
-
+    /*
     public IActionResult OnPost(){
             if(!ModelState.IsValid)
             {
@@ -33,7 +33,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages{
             return Page();
         }
 
-
+    */
 
     }
 }

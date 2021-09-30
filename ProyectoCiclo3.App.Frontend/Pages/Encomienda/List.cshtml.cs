@@ -12,7 +12,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     public class ListEncomiendaModel : PageModel
     {
         private readonly RepositorioEncomienda repositorioEncomienda;
-        public IEnumerable<Encomienda> encomiendas {get;set;}
+        public IEnumerable<Encomienda> Encomienda {get;set;}
  
     public ListEncomiendaModel(RepositorioEncomienda repositorioEncomienda)
     {
@@ -21,9 +21,9 @@ namespace ProyectoCiclo3.App.Frontend.Pages
  
     public void OnGet()
     {
-        encomiendas = repositorioEncomienda.GetAll();
+        Encomienda = repositorioEncomienda.GetAll();
     }
-
+    /*
     public IActionResult OnPost()
         {
             if(!ModelState.IsValid)
@@ -36,7 +36,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
             }
             return Page();
         }
-
+    */
 
     }
 

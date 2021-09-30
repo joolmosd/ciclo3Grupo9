@@ -12,7 +12,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     public class EditServicioModel : PageModel
     {
        private readonly RepositorioServicio repositorioServicio;
-              public Servicio servicio {get;set;}
+              public Servicio Servicio {get;set;}
  
         public EditServicioModel(RepositorioServicio repositorioServicio)
        {
@@ -21,7 +21,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
  
         public IActionResult OnGet(int servicioId)
         {
-                servicio=repositorioServicio.GetServicioWithId(servicioId);
+                Servicio = repositorioServicio.GetServicioWithId(servicioId);
                 return Page();
  
         }
