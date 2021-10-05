@@ -29,6 +29,16 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
             return servicios.SingleOrDefault(b => b.id == id);
         }
 
+        public Servicio Create(Servicio newServicio)
+        {
+           if(servicios.Count > 0){
+           newServicio.id=servicios.Max(r => r.id) +1; 
+            }else{
+               newServicio.id = 1; 
+            }
+           servicios.Add(newServicio);
+           return newServicio;
+        }
 
         public Servicio Update(Servicio newServicio){
             var servicio = servicios.SingleOrDefault(b => b.id == newServicio.id);
@@ -43,6 +53,13 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
         }
 
 
+        public void Delete(int id)
+        {
+        var service= servicios.SingleOrDefault(b => b.id == id);
+        servicios.Remove(service);
+        return;
+        }
 
+        
     }
 }

@@ -7,8 +7,8 @@
 <div class="text-center">
 <form method="post">
 
-  <label for="id" class="form-label">id:</label>
-  <input type="number" class="form-control" id="id" name="id" placeholder="id" asp-for="@usuario.id">
+  @* <label for="id" class="form-label">id:</label> *@
+  <input type="number" class="d-none" id="id" name="id" placeholder="id" asp-for="@usuario.id">
 
   <label for="Nombre" class="form-label">Nombre:</label>
   <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre" asp-for="@usuario.nombre">
