@@ -30,7 +30,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     {
         if(enco.id>0)
         {
-        repositorioEncomienda.Delete(enco.id);
+            repositorioEncomienda.Delete(enco.id);
         }
         return RedirectToPage("./List");
     }
