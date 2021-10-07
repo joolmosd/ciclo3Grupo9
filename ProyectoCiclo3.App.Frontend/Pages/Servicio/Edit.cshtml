@@ -10,20 +10,20 @@
   @* <label for="id" class="form-label">id:</label> *@
   <input type="number" class="d-none" id="id" name="id" placeholder="id" asp-for="@servicio.id">
 
-  <label for="Origen" class="form-label">Origen:</label>
+  <label for="origen" class="form-label">Origen:</label>
   <input type="text" class="form-control" id="origen" name="origen" placeholder="Origen" asp-for="@servicio.origen">
 
-  <label for="Destino" class="form-label">Destino:</label>
-  <input type="number" class="form-control" id="destino" name="destino" placeholder="Destino" asp-for="@servicio.destino">
+  <label for="destino" class="form-label">Destino:</label>
+  <input type="text" class="form-control" id="destino" name="destino" placeholder="Destino" asp-for="@servicio.destino">
   
-  <label for="Fecha" class="form-label">Fecha:</label>
+  <label for="fecha" class="form-label">Fecha:</label>
   <input type="text" class="form-control" id="fecha" name="fecha" placeholder="00/00/0000" asp-for="@servicio.fecha">
 
-  <label for="Encomienda" class="form-label">Hora:</label>
-  <input type="text" class="form-control" id="hora" name="hora" placeholder="Hora" asp-for="@servicio.hora">
+  <label for="hora" class="form-label">Hora:</label>
+  <input type="text" class="form-control" id="hora" name="hora" placeholder="00:00" asp-for="@servicio.hora">
 
-  <label for="Encomienda" class="form-label">Encomienda:</label>
-  <input type="number" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda" asp-for="@servicio.encomienda">
+  <label for="encomienda" class="form-label">Encomienda:</label>
+  <input type="text" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda" asp-for="@servicio.encomienda">
   
   <hr>
   <button type="submit" class="btn btn-success">Enviar</button>

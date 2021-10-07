@@ -50,20 +50,20 @@ namespace ProyectoCiclo3.App.Persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
-                    b.Property<int>("destino")
-                        .HasColumnType("int");
+                    b.Property<string>("destino")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("encomienda")
                         .HasColumnType("int");
 
                     b.Property<string>("fecha")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("hora")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("origen")
-                        .HasColumnType("int");
+                    b.Property<string>("origen")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("id");
 

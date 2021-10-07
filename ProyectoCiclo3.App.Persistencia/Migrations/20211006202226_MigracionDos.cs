@@ -12,8 +12,8 @@ namespace ProyectoCiclo3.App.Persistencia.Migrations
                 {
                     id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    origen = table.Column<int>(type: "int", nullable: false),
-                    destino = table.Column<int>(type: "int", nullable: false),
+                    origen = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    destino = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     fecha = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     hora = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     encomienda = table.Column<string>(type: "nvarchar(max)", nullable: true)
