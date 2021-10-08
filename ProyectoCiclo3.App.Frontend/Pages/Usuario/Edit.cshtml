@@ -3,36 +3,46 @@
 @{
   var usuario = Model.Usuario;
 }
-<div class="card" style="width: 18rem; margin: 0 auto; 
+
+<body>
+  <style>
+    body {
+      background: rgb(148, 187, 233);
+    }
+  </style>
+
+  <div class="card" style="width: 18rem; margin: 0 auto; 
 float: none; 
 margin-bottom: 10px;
 margin-top:70px;
 border-radius: 30px;">
-  <img src="~/img/7.jpg" class="card-img-top" style="border-radius: 30px;" alt="...">
+    <img src="~/img/7.jpg" class="card-img-top" style="border-radius: 30px;" alt="...">
 
-  <div class="card-body justify-content-center">
-    <form method="post">
+    <div class="card-body justify-content-center">
+      <form method="post">
 
-      @* <label for="id" class="form-label">id:</label> *@
-      <input type="number" class="d-none" id="id" name="id" placeholder="id" asp-for="@usuario.id">
+        @* <label for="id" class="form-label">id:</label> *@
+        <input type="number" class="d-none" id="id" name="id" placeholder="id" asp-for="@usuario.id">
 
-      <label for="Nombre" class="form-label">Nombre:</label>
-      <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre" asp-for="@usuario.nombre">
+        <label for="Nombre" class="form-label">Nombre:</label>
+        <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre"
+          asp-for="@usuario.nombre">
 
-      <label for="Apellidos" class="form-label">Apellidos:</label>
-      <input type="text" class="form-control" id="apellidos" name="apellidos" placeholder="Apellidos"
-        asp-for="@usuario.apellidos">
+        <label for="Apellidos" class="form-label">Apellidos:</label>
+        <input type="text" class="form-control" id="apellidos" name="apellidos" placeholder="Apellidos"
+          asp-for="@usuario.apellidos">
 
-      <label for="Direccion" class="form-label">Direccion:</label>
-      <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Dirección"
-        asp-for="@usuario.direccion">
+        <label for="Direccion" class="form-label">Direccion:</label>
+        <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Dirección"
+          asp-for="@usuario.direccion">
 
-      <label for="Encomienda" class="form-label">Telefono:</label>
-      <input type="text" class="form-control" id="telefono" name="telefono" placeholder="Telefono"
-        asp-for="@usuario.telefono">
+        <label for="Encomienda" class="form-label">Telefono:</label>
+        <input type="text" class="form-control" id="telefono" name="telefono" placeholder="Telefono"
+          asp-for="@usuario.telefono">
 
-      <hr>
-      <button type="submit" class="btn btn-success">Enviar</button>
-    </form>
+        <hr>
+        <button type="submit" class="btn btn-success">Enviar</button>
+      </form>
+    </div>
   </div>
-</div>
+</body>

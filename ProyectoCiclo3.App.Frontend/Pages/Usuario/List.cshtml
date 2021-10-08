@@ -3,41 +3,65 @@
 @{
 }
 
-<h1>Listado de Usuario</h1>
-<table class="table">
-    <thead>
-        <tr>
+<head>
+<link rel="stylesheet" href="~/css/list.css" />
+    <h1>Listado de Usuario</h1>
+    <table class="table" style="width:50%;">
+        @* <thead>
+            <tr>
             <th scope="col">id</th>
             <th scope="col">Nombre</th>
             <th scope="col">Apellidos</th>
             <th scope="col">Direccion</th>
             <th scope="col">Telefono</th>
-        </tr>
-    </thead>
+            </tr>
+            </thead> *@
 
-    @foreach (var usuario in Model.Usuario)
-    {
-        <tr>
-            <td>@usuario.id</td>
-            <td>@usuario.nombre</td>
-            <td>@usuario.apellidos</td>
-            <td>@usuario.direccion</td>
-            <td>@usuario.telefono</td>
+        @foreach (var usuario in Model.Usuario)
+        {
             <td>
-                <a class="btn btn-info" style="" asp-page="./Details" asp-route-usuarioId="@usuario.id"><i
-                    class="fas fa-adjust"></i>Ver</a>
-                @* <style>
-                    #btn_editar:hover{background-color: red}
-                    </style> *@
-                <a class="btn btn-info" id="btn_editar"
-                style="{background-color: beige; color: black; border-radius: 20px;border-color: beige;}:hover{background-color: red}"
-                asp-page="./Edit" asp-route-usuarioId="@usuario.id">Editar</a>
-                <form method="POST">
-                    <input type="number" class="form-control d-none" id="id" name="id" placeholder="id"
-                    asp-for="@usuario.id">
-                    <button type="submit" class="btn btn-danger" href="">Eliminar</button>
-                </form>
+                <div id="card" class="card" style="width: 18rem;
+                border-radius: 30px;
+                margin-top:30px;">
+                    <img src="https://cdn-icons-png.flaticon.com/512/47/47769.png" class="card-img-top" alt="..." style="height: 150px;
+                        width: 150px;
+                        margin-top:30px;
+                        margin-left:70px;">
+                    <div class="card-body justify-content-center">
+
+                        <div class="form-outline mb-4">
+                            <label for="id" class="form-label"><a>ID: @usuario.id</a></label>
+                        </div>
+
+                        <div class="form-outline mb-4">
+                            <label for="nombre" class="form-label"><a>Nombre: @usuario.nombre @usuario.apellidos</a></label>
+                        </div>
+
+                        <div class="form-outline mb-4">
+                            <label for="direccion" class="form-label"><a>Direccion: @usuario.direccion</a></label>
+                        </div>
+
+                        <div class="form-outline mb-4">
+                            <label for="telefono" class="form-label"><a>Telefono: @usuario.telefono</a></label>
+                        </div>
+
+                        <div class="form-outline mb-4">
+                            
+                                    <a id="btnVer"class="btn btn-info" asp-page="./Details"
+                                    asp-route-usuarioId="@usuario.id">Ver</a>
+                                
+                                    <a id="btnEditar" class="btn btn-info" id="btn_editar"
+                                    asp-page="./Edit" asp-route-usuarioId="@usuario.id">Editar</a>
+                                
+                                    <a id="btnEliminar"class="btn btn-info" id="btn_editar"
+                                    asp-page="./Delete" asp-route-usuarioId="@usuario.id">Eliminar</a>
+                        </div>
+
+                    </div>
+                </div>
+
+
             </td>
-        </tr>
-    }
-</table>
+        }
+    </table>
+</head>

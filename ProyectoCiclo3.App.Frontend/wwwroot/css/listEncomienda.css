@@ -1,0 +1,42 @@
+#btnVer {
+    background-color:#03C669;
+    color: black;
+    border-radius: 30px;
+}
+
+#btnVer:hover {
+    background-color: #3AB379;
+    color:white;
+}
+
+
+#btnEditar {
+    background-color: #11E7E7;
+    color: black;
+    border-radius: 30px;
+}
+
+#btnEditar:hover {
+    background-color: #6EE1E1;
+    color:white;
+}
+
+
+#btnEliminar {
+    background-color: red;
+    color: black;
+    border-radius: 30px;
+}
+
+#btnEliminar:hover {
+    background-color: #F96F6F;
+    color: white;
+}
+
+.card{
+    background: rgb(175,172,215);
+background: linear-gradient(90deg, rgba(175,172,215,1) 9%, rgba(189,104,125,1) 54%, rgba(0,212,255,0.8354692218684349) 100%);
+}
+body{
+     background: #afacd7;
+}
