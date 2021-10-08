@@ -2,7 +2,8 @@
 @model ProyectoCiclo3.App.Frontend.Pages.FormUsuarioModel
 @{
 }
-
+<head>
+  <script type="text/javascript" src="~/css/card.css"></script>
 <body>
  <style>
    body {
@@ -11,13 +12,13 @@
    }
  </style>
 
-  <div class="text-center">
-    <form method="post">
+
+    @* <form method="post"> *@
 
       @* <label for="id" class="form-label">Id:</label>
       <input type="number" class="form-control" id="id" name="id" placeholder="Id"> *@
-
-      <label for="nombre" class="form-label">Nombre:</label>
+      
+      @* <label for="nombre" class="form-label">Nombre:</label>
       <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
 
       <label for="apellidos" class="form-label">Apellidos:</label>
@@ -31,6 +32,48 @@
 
       <hr>
       <button type="submit" class="btn btn-success">Enviar</button>
-    </form>
+    </form> *@
+
+
+<div  class="card" style="width: 18rem; margin: 0 auto; 
+float: none; 
+margin-bottom: 10px;
+margin-top:70px;
+border-radius: 30px;">
+  <img src="~/img/6.jpg" class="card-img-top" style="border-radius: 30px;" alt="...">
+
+<div class="card-body justify-content-center">
+<form method="post">
+  <!-- Nombres input -->
+  <div class="form-outline mb-4">
+    <label for="nombre" class="form-label">Nombre:</label>
+    <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
   </div>
+
+  <!-- Apellidos input -->
+  <div class="form-outline mb-4">     
+    <label for="apellidos" class="form-label">Apellidos:</label>
+    <input type="text" class="form-control" id="apellidos" name="apellidos" placeholder="Apellidos">
+  </div>
+
+  <!-- Direccion input -->
+  <div class="form-outline mb-4">
+    <label for="direccion" class="form-label">Dirección:</label>
+    <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Direccion">
+  </div>
+
+  <!-- Telefono input -->
+  <div class="form-outline mb-4">
+    <label for="telefono" class="form-label">Telefono:</label>
+    <input type="number" class="form-control" id="telefono" name="telefono" placeholder="Telefono">
+  </div>
+
+  <!-- Submit button -->
+  <button type="submit" class="btn btn-success">Enviar</button>
+</form>
+</div>
+</div>
+
+  
 </body>
+</head>

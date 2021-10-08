@@ -1,0 +1,25 @@
+.table .card{
+    margin-top: 50px;
+    border-radius:35px;
+}
+.card{
+    border-radius: 30px;
+}
+.card img{
+    height: 150px;
+    width: 150px;
+    margin-top:30px;
+    margin-left:70px;
+}
+
+#btnGo{
+    border-radius: 25px;
+    background: rgb(238, 174, 202);
+    color:black;
+    
+}
+#btnGo:hover{
+    background: #F0bf4c;
+    color:white;
+}
+

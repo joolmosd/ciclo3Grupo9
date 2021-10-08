@@ -2,25 +2,34 @@
 @model ProyectoCiclo3.App.Frontend.Pages.FormEncomiendaModel
 @{
 }
- 
-<div class="text-center">
-<form method="post">
-  @* <label for="id" class="form-label">Id:</label>
-  <input type="number" class="form-control" id="id" name="id" placeholder="Id"> *@
 
-  <label for="descripcion" class="form-label">Descripción:</label>
-  <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripcion">
 
-  <label for="peso" class="form-label">Peso:</label>
-  <input type="number" class="form-control" id="peso" name="peso" placeholder="Peso">
+<div class="card center" style="width: 18rem; margin: 0 auto; 
+float: none; 
+margin-bottom: 10px;
+margin-top:70px;
+border-radius: 30px;">
+  <img src="~/img/4.jpg" class="card-img-top"  style="border-radius: 30px;"alt="...">
 
-  <label for="tipo" class="form-label">Tipo:</label>
-  <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo">
+  <div class="card-body justify-content-center">
+    <form method="post">
+      @* <label for="id" class="form-label">Id:</label>
+        <input type="number" class="form-control" id="id" name="id" placeholder="Id"> *@
 
-  <label for="presentacion" class="form-label">Presentacion:</label>
-  <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentacion">
+      <label for="descripcion" class="form-label">Descripción:</label>
+      <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripcion">
 
-  <hr>
-  <button type="submit" class="btn btn-success">Enviar</button>
-  </form>
+      <label for="peso" class="form-label">Peso:</label>
+      <input type="number" class="form-control" id="peso" name="peso" placeholder="Peso">
+
+      <label for="tipo" class="form-label">Tipo:</label>
+      <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo">
+
+      <label for="presentacion" class="form-label">Presentacion:</label>
+      <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentacion">
+
+      <hr>
+      <button type="submit" class="btn btn-success">Enviar</button>
+    </form>
+  </div>
 </div>

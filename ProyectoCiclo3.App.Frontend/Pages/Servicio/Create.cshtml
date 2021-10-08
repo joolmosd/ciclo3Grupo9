@@ -6,59 +6,67 @@
 
 <body>
 
-<style>
-  body{
-    background: rgb(219,93,227);
-    background: linear-gradient(90deg, rgba(219,93,227,1) 0%, rgba(243,50,50,1) 50%, rgba(225,87,171,1) 69%);
-  }
-</style>
-  <div class="text-center">
-    <form method="post">
-
-      @* <label for="id" class="form-label">Id:</label>
-      <input type="number" class="form-control" id="id" name="id" placeholder="Id"> *@
-
-      @* <label for="origen" class="form-label">Origen:</label>
-      <input type="text" class="form-control" id="origen" name="origen" placeholder="Origen"> *@
-
-      <select asp-for="Servicio.origen" class="form-control" required="required">
-        <option value="">-</option>
-        @foreach (var usuario in Model.Usuarios)
-    {
-        <option value="@usuario.id">@usuario.nombre @usuario.apellidos</option>
+  <style>
+    body {
+      background: rgb(219, 93, 227);
+      background: linear-gradient(90deg, rgba(219, 93, 227, 1) 0%, rgba(243, 50, 50, 1) 50%, rgba(225, 87, 171, 1) 69%);
     }
-    </select>
+  </style>
+  <div class="card" style="width: 18rem; margin: 0 auto; 
+float: none; 
+margin-bottom: 10px;
+margin-top:70px;
+border-radius: 30px;">
+    <img src="~/img/2.jpg" class="card-img-top" style="border-radius: 30px;" alt="...">
 
-      @* <label for="destino" class="form-label">Destino:</label>
-      <input type="text" class="form-control" id="destino" name="destino" placeholder="Destino"> *@
+    <div class="card-body justify-content-center">
+      <form method="post">
 
-      <select asp-for="Servicio.origen" class="form-control" required="required">
-        <option value="">-</option>
-        @foreach (var usuario in Model.Usuarios)
-    {
-        <option value="@usuario.id">@usuario.nombre @usuario.apellidos</option>
-    }
-    </select>
+        @* <label for="id" class="form-label">Id:</label>
+          <input type="number" class="form-control" id="id" name="id" placeholder="Id"> *@
 
-      <label for="fecha" class="form-label">Fecha:</label>
-      <input type="text" class="form-control" id="fecha" name="fecha" placeholder="00/00/0000">
+        @* <label for="origen" class="form-label">Origen:</label>
+          <input type="text" class="form-control" id="origen" name="origen" placeholder="Origen"> *@
 
-      <label for="hora" class="form-label">Hora:</label>
-      <input type="text" class="form-control" id="hora" name="hora" placeholder="00:00">
+        <select asp-for="Servicio.origen" class="form-control" required="required">
+          <option value="">-</option>
+          @foreach (var usuario in Model.Usuarios)
+          {
+            <option value="@usuario.id">@usuario.nombre @usuario.apellidos</option>
+          }
+        </select>
 
-      @* <label for="encomienda" class="form-label">Encomienda:</label>
-      <input type="text" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda"> *@
+        @* <label for="destino" class="form-label">Destino:</label>
+          <input type="text" class="form-control" id="destino" name="destino" placeholder="Destino"> *@
 
-  <select asp-for="Servicio.encomienda" class="form-control">
-        <option value="">-</option>
-        @foreach (var encomienda in Model.Encomiendas)
-    {
-        <option value="@encomienda.id">Descripcion:@encomienda.descripcion - Peso: @encomienda.peso - Tipo: @encomienda.tipo</option>
-    }
-    </select>
+        <select asp-for="Servicio.origen" class="form-control" required="required">
+          <option value="">-</option>
+          @foreach (var usuario in Model.Usuarios)
+          {
+            <option value="@usuario.id">@usuario.nombre @usuario.apellidos</option>
+          }
+        </select>
 
-      <hr>
-      <button type="submit" class="btn btn-success">Enviar</button>
-    </form>
-  </div>
+        <label for="fecha" class="form-label">Fecha:</label>
+        <input type="text" class="form-control" id="fecha" name="fecha" placeholder="00/00/0000">
+
+        <label for="hora" class="form-label">Hora:</label>
+        <input type="text" class="form-control" id="hora" name="hora" placeholder="00:00">
+
+        @* <label for="encomienda" class="form-label">Encomienda:</label>
+          <input type="text" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda"> *@
+
+        <select asp-for="Servicio.encomienda" class="form-control">
+          <option value="">-</option>
+          @foreach (var encomienda in Model.Encomiendas)
+          {
+            <option value="@encomienda.id">Descripcion:@encomienda.descripcion - Peso: @encomienda.peso - Tipo:
+              @encomienda.tipo</option>
+          }
+        </select>
+
+        <hr>
+        <button type="submit" class="btn btn-success">Enviar</button>
+      </form>
+    </div>
 </body>

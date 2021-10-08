@@ -1,31 +1,42 @@
 @page
 @model ProyectoCiclo3.App.Frontend.Pages.EditServicioModel
 @{
-    var servicio = Model.Servicio;
+  var servicio = Model.Servicio;
 }
- 
-<div class="text-center">
-<form method="post">
-  
-  @* <label for="id" class="form-label">id:</label> *@
-  <input type="number" class="d-none" id="id" name="id" placeholder="id" asp-for="@servicio.id">
 
-  <label for="origen" class="form-label">Origen:</label>
-  <input type="text" class="form-control" id="origen" name="origen" placeholder="Origen" asp-for="@servicio.origen">
+<div class="card" style="width: 18rem; margin: 0 auto; 
+float: none; 
+margin-bottom: 10px;
+margin-top:70px;
+border-radius: 30px;">
+  <img src="~/img/6.jpg" class="card-img-top" style="border-radius: 30px;" alt="...">
 
-  <label for="destino" class="form-label">Destino:</label>
-  <input type="text" class="form-control" id="destino" name="destino" placeholder="Destino" asp-for="@servicio.destino">
-  
-  <label for="fecha" class="form-label">Fecha:</label>
-  <input type="text" class="form-control" id="fecha" name="fecha" placeholder="00/00/0000" asp-for="@servicio.fecha">
+  <div class="card-body justify-content-center">
+    <form method="post">
 
-  <label for="hora" class="form-label">Hora:</label>
-  <input type="text" class="form-control" id="hora" name="hora" placeholder="00:00" asp-for="@servicio.hora">
+      @* <label for="id" class="form-label">id:</label> *@
+      <input type="number" class="d-none" id="id" name="id" placeholder="id" asp-for="@servicio.id">
 
-  <label for="encomienda" class="form-label">Encomienda:</label>
-  <input type="text" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda" asp-for="@servicio.encomienda">
-  
-  <hr>
-  <button type="submit" class="btn btn-success">Enviar</button>
-</form>
+      <label for="origen" class="form-label">Origen:</label>
+      <input type="text" class="form-control" id="origen" name="origen" placeholder="Origen" asp-for="@servicio.origen">
+
+      <label for="destino" class="form-label">Destino:</label>
+      <input type="text" class="form-control" id="destino" name="destino" placeholder="Destino"
+        asp-for="@servicio.destino">
+
+      <label for="fecha" class="form-label">Fecha:</label>
+      <input type="text" class="form-control" id="fecha" name="fecha" placeholder="00/00/0000"
+        asp-for="@servicio.fecha">
+
+      <label for="hora" class="form-label">Hora:</label>
+      <input type="text" class="form-control" id="hora" name="hora" placeholder="00:00" asp-for="@servicio.hora">
+
+      <label for="encomienda" class="form-label">Encomienda:</label>
+      <input type="text" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda"
+        asp-for="@servicio.encomienda">
+
+      <hr>
+      <button type="submit" class="btn btn-success">Enviar</button>
+    </form>
+  </div>
 </div>
