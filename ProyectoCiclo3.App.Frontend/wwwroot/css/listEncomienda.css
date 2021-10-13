@@ -34,8 +34,7 @@
 }
 
 .card{
-    background: rgb(175,172,215);
-background: linear-gradient(90deg, rgba(175,172,215,1) 9%, rgba(189,104,125,1) 54%, rgba(0,212,255,0.8354692218684349) 100%);
+    background:#cb9513;
 }
 body{
      background: #afacd7;

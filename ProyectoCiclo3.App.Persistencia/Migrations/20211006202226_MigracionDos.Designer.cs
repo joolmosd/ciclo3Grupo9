@@ -55,8 +55,8 @@ namespace ProyectoCiclo3.App.Persistencia.Migrations
                     b.Property<string>("destino")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("encomienda")
-                        .HasColumnType("int");
+                    b.Property<string>("encomienda")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("fecha")
                         .HasColumnType("nvarchar(max)");

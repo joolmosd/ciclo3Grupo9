@@ -27,7 +27,7 @@ border-radius: 30px;">
 
         @* <label for="origen" class="form-label">Origen:</label>
           <input type="text" class="form-control" id="origen" name="origen" placeholder="Origen"> *@
-
+        <label for="origen" class="form-label">Origen:</label>
         <select asp-for="Servicio.origen" class="form-control" required="required">
           <option value="">-</option>
           @foreach (var usuario in Model.Usuarios)
@@ -38,8 +38,8 @@ border-radius: 30px;">
 
         @* <label for="destino" class="form-label">Destino:</label>
           <input type="text" class="form-control" id="destino" name="destino" placeholder="Destino"> *@
-
-        <select asp-for="Servicio.origen" class="form-control" required="required">
+        <label for="destino" class="form-label">Destino:</label>
+        <select asp-for="Servicio.destino" class="form-control" required="required">
           <option value="">-</option>
           @foreach (var usuario in Model.Usuarios)
           {
@@ -48,14 +48,14 @@ border-radius: 30px;">
         </select>
 
         <label for="fecha" class="form-label">Fecha:</label>
-        <input type="text" class="form-control" id="fecha" name="fecha" placeholder="00/00/0000">
+        <input type="date" class="form-control" id="fecha" asp-for="Servicio.fecha" placeholder="00-00-0000">
 
         <label for="hora" class="form-label">Hora:</label>
-        <input type="text" class="form-control" id="hora" name="hora" placeholder="00:00">
+        <input type="time" class="form-control" id="hora" asp-for="Servicio.hora" placeholder="00:00">
 
         @* <label for="encomienda" class="form-label">Encomienda:</label>
           <input type="text" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda"> *@
-
+        <label for="encomienda" class="form-label">Encomienda:</label>
         <select asp-for="Servicio.encomienda" class="form-control">
           <option value="">-</option>
           @foreach (var encomienda in Model.Encomiendas)
