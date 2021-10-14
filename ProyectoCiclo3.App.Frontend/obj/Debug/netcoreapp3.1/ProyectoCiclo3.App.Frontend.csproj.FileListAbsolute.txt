@@ -316,3 +316,6 @@ D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoC
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
