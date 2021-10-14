@@ -46,7 +46,10 @@
               <a id="btnVer" class="btn btn-info" asp-page="./Details" asp-route-servicioId="@servicio.id">Ver</a>
 
               <a id="btnEditar" class="btn btn-info" id="btn_editar" asp-page="./Edit"
-              asp-route-servicioId="@servicio.id">Editar</a>
+              asp-route-servicioId="@servicio.id"
+               asp-route-servicioOrigen="@servicio.origen">Editar</a>
+              @* asp-route-servicioOrigen="@servicio.origen"
+              asp-route-servicioDestino="@servicio.destino">Editar</a> *@
 
               <a id="btnEliminar" class="btn btn-info" id="btn_editar" asp-page="./Delete"
               asp-route-servicioId="@servicio.id">Eliminar</a>

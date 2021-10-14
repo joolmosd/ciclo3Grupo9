@@ -25,11 +25,11 @@ border-radius: 30px;">
         asp-for="@servicio.destino">
 
       <label for="fecha" class="form-label">Fecha:</label>
-      <input type="text" class="form-control" id="fecha" name="fecha" placeholder="00/00/0000"
+      <input type="date" class="form-control" id="fecha" name="fecha" placeholder="00-00-0000"
         asp-for="@servicio.fecha">
 
       <label for="hora" class="form-label">Hora:</label>
-      <input type="text" class="form-control" id="hora" name="hora" placeholder="00:00" asp-for="@servicio.hora">
+      <input type="time" class="form-control" id="hora" name="hora" placeholder="00:00" asp-for="@servicio.hora">
 
       <label for="encomienda" class="form-label">Encomienda:</label>
       <input type="text" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda"
