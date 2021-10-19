@@ -1,0 +1,15 @@
+#option:hover{
+    background-color: #F0bf4c;
+    color: white;
+    border-radius: 25px;;
+}
+#option{
+    border-radius:25px;
+    color: black;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}

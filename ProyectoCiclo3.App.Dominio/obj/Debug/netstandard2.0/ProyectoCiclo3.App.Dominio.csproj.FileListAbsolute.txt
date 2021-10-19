@@ -16,3 +16,12 @@ D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto 
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
 D:\Documentos\Beca Programacion\Fundamentos de la Programacion\ciclo 3\Proyecto Equipo\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb
+C:\CAROLINA\Proyecto C3G27E9\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.deps.json
+C:\CAROLINA\Proyecto C3G27E9\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+C:\CAROLINA\Proyecto C3G27E9\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\bin\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb
+C:\CAROLINA\Proyecto C3G27E9\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csprojAssemblyReference.cache
+C:\CAROLINA\Proyecto C3G27E9\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfoInputs.cache
+C:\CAROLINA\Proyecto C3G27E9\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.AssemblyInfo.cs
+C:\CAROLINA\Proyecto C3G27E9\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.csproj.CoreCompileInputs.cache
+C:\CAROLINA\Proyecto C3G27E9\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.dll
+C:\CAROLINA\Proyecto C3G27E9\ciclo3Grupo9\ProyectoCiclo3.App.Dominio\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Dominio.pdb

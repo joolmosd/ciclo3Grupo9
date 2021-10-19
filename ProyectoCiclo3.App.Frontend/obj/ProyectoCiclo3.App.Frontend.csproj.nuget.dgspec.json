@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj": {}
+    "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+    "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectUniqueName": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "projectName": "ProyectoCiclo3.App.Dominio",
-        "projectPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\obj\\",
+        "projectPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\William Oviedo\\.nuget\\packages\\",
+        "outputPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\William Oviedo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -61,17 +61,17 @@
         }
       }
     },
-    "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj": {
+    "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+        "projectUniqueName": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
         "projectName": "ProyectoCiclo3.App.Frontend",
-        "projectPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
-        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\obj\\",
+        "projectPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\William Oviedo\\.nuget\\packages\\",
+        "outputPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\William Oviedo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
-                "projectPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
+              "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+                "projectPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
               }
             }
           }
@@ -152,17 +152,17 @@
         }
       }
     },
-    "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+    "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
         "projectName": "ProyectoCiclo3.App.Persistencia",
-        "projectPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\obj\\",
+        "projectPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\William Oviedo\\.nuget\\packages\\",
+        "outputPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\William Oviedo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -173,8 +173,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
-                "projectPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+              "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+                "projectPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
               }
             }
           }

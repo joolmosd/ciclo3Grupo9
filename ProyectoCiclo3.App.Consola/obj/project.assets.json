@@ -5838,19 +5838,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a\\.nuget\\packages\\": {}
+    "C:\\Users\\William Oviedo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "projectUniqueName": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
       "projectName": "ProyectoCiclo3.App.Consola",
-      "projectPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Consola\\obj\\",
+      "projectPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Consola\\ProyectoCiclo3.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\William Oviedo\\.nuget\\packages\\",
+      "outputPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\William Oviedo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5861,8 +5861,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
-              "projectPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
+            "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+              "projectPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj"
             }
           }
         }

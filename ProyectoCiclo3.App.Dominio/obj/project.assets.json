@@ -280,19 +280,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a\\.nuget\\packages\\": {}
+    "C:\\Users\\William Oviedo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+      "projectUniqueName": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
       "projectName": "ProyectoCiclo3.App.Dominio",
-      "projectPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\Beca Programacion\\Fundamentos de la Programacion\\ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\obj\\",
+      "projectPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\William Oviedo\\.nuget\\packages\\",
+      "outputPath": "C:\\CAROLINA\\Proyecto C3G27E9\\ciclo3Grupo9\\ProyectoCiclo3.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\William Oviedo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
